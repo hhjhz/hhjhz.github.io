@@ -15,19 +15,6 @@
       </tags>
   </entry>
   <entry>
-    <title>第一篇博客</title>
-    <url>/2022/02/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p>​            <span id="more"></span></p>
-<ul>
-<li>属于第二次尝试了，之前是刚放寒假，因为要看与比赛相关的东西，所以不敢太放肆看这种，遇到了问题也没解决。</li>
-<li>刚做完手术，今天好了很多，趁着劲头再看了一次同学发的教程，其实这个教程多少有点过时了，node的版本太低，一些关键的点又不说，github的默认分支又和教程的不一样，折腾了一个晚上才弄好。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>杂记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>用FSM实现cdecl</title>
     <url>/2022/02/04/%E7%94%A8FSM%E5%AE%9E%E7%8E%B0cdecl/</url>
     <content><![CDATA[<p><strong>摘抄自《C语言专家编程》</strong></p>
@@ -56,6 +43,19 @@
     <url>/2022/02/03/%E7%BB%99hexo%E6%9B%B4%E6%8D%A2%E4%B8%BB%E9%A2%98/</url>
     <content><![CDATA[<ul>
 <li>给hexo换了个主题，但是github页面刷新似乎很慢啊</li>
+</ul>
+]]></content>
+      <categories>
+        <category>杂记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/2022/02/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>​            <span id="more"></span></p>
+<ul>
+<li>属于第二次尝试了，之前是刚放寒假，因为要看与比赛相关的东西，所以不敢太放肆看这种，遇到了问题也没解决。</li>
+<li>刚做完手术，今天好了很多，趁着劲头再看了一次同学发的教程，其实这个教程多少有点过时了，node的版本太低，一些关键的点又不说，github的默认分支又和教程的不一样，折腾了一个晚上才弄好。</li>
 </ul>
 ]]></content>
       <categories>
